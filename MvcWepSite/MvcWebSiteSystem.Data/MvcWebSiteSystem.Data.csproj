@@ -55,7 +55,6 @@
     <Compile Include="Entities\Customer.cs" />
     <Compile Include="Entities\CustomerDemographic.cs" />
     <Compile Include="Entities\Employee.cs" />
-    <Compile Include="Entities\NorthwindContext.cs" />
     <Compile Include="Entities\Order.cs" />
     <Compile Include="Entities\Order_Detail.cs" />
     <Compile Include="Entities\Product.cs" />

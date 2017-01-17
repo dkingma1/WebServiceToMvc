@@ -1,14 +1,19 @@
 namespace MvcWebSiteSystem.Data.Entities
 {
+
     using System;
-    using System.Data.Entity;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Linq;
+
+    #region Additional Namespaces
     using MvcWebSiteSystem.Data.Entities;
-    public partial class NorthwindContext : DbContext
+    using System.Data.Entity;
+    #endregion
+
+    internal class NorthwindContext : DbContext
     {
         public NorthwindContext()
-            : base("name=NorthwindContext")
+            : base("name=NorthwindDB")
         {
         }
 
