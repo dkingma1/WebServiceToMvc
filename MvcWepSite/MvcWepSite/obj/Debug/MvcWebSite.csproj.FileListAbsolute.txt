@@ -64,7 +64,6 @@ C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\Mic
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\obj\Debug\MvcWebSite.csprojResolveAssemblyReference.cache
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\obj\Debug\MvcWepSite.dll
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\obj\Debug\MvcWepSite.pdb
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\roslyn\csc.exe.config

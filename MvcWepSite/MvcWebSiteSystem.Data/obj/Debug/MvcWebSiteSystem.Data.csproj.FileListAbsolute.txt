@@ -5,6 +5,5 @@ C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWebSiteSystem.D
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWebSiteSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWebSiteSystem.Data\bin\Debug\EntityFramework.xml
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWebSiteSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWebSiteSystem.Data\obj\Debug\MvcWebSiteSystem.Data.csprojResolveAssemblyReference.cache
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWebSiteSystem.Data\obj\Debug\MvcWebSiteSystem.Data.dll
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWebSiteSystem.Data\obj\Debug\MvcWebSiteSystem.Data.pdb
