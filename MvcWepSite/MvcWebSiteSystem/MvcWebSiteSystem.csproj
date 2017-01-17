@@ -59,10 +59,6 @@
       <Project>{368e9607-2a9d-4b10-b34e-40fc0c7db4fb}</Project>
       <Name>MvcWebSiteSystem.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MvcWepSite\MvcWebSite.csproj">
-      <Project>{1aa92a13-4d29-471f-803f-cd5e6cebfb20}</Project>
-      <Name>MvcWebSite</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

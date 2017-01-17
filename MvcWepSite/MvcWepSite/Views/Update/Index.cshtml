@@ -3,5 +3,16 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2>Lookup One Record</h2>
+
+<div class="row">
+
+    @using (Html.BeginForm("UpdateInformation", "Update", FormMethod.Post))
+    {
+        <p> Product Code @Html.TextBox("productCode") <br />
+        <input type="submit" value="Search" />
+        </p>
+    }
+
+</div>
 

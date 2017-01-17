@@ -80,3 +80,8 @@ C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\ros
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\roslyn\vbc.exe.config
 C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\roslyn\vbc.rsp
+C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\MvcWebSiteSystem.Data.dll
+C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\MvcWebSiteSystem.dll
+C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\MvcWebSiteSystem.Data.pdb
+C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\bin\MvcWebSiteSystem.pdb
+C:\Users\dkingma1\Documents\GitHub\WebServiceToMvc\MvcWepSite\MvcWepSite\obj\Debug\MvcWebSite.csprojResolveAssemblyReference.cache

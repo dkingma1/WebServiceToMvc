@@ -13,7 +13,7 @@ namespace MvcWebSiteSystem.Data.Entities
     internal class NorthwindContext : DbContext
     {
         public NorthwindContext()
-            : base("name=NorthwindDB")
+            : base("name=NorthwindDBContext")
         {
         }
 
