@@ -20,23 +20,30 @@ namespace MvcWepSite.Controllers
 
         public ActionResult UpdateInformation(int productCode)
         {
-            //if (productCode != 0)
-            //{
-            //    ViewBag.Message = productCode;
-            //}
-            //else
-            //{
-            //    ViewBag.Message = "Did not work";
-            //}
-
             ProductController sysmgr = new ProductController();
             Product productInfo = sysmgr.Product_Get(productCode);
             ViewBag.ProductName = productInfo.ProductName;
-
+            ViewBag.UnitPrice = productInfo.UnitPrice;
+            ViewBag.QuantityOnHand = productInfo.UnitsInStock;
+            ViewBag.productCode = productCode;
 
             return View();
         }
 
-        
+        public ActionResult UpdateProduct(string ProductName, int productCode, short QuantityOnHand, int UnitPrice)
+        {
+            ProductController sysmgr = new ProductController();
+            Product productInfo = sysmgr.Product_Get(productCode);
+            productInfo.ProductName = ProductName;
+            productInfo.UnitsInStock = QuantityOnHand;
+            productInfo.UnitPrice = UnitPrice;
+            productInfo.ProductID = productCode;
+            sysmgr.Product_Update(productInfo);
+
+            return View();
+        }
+
+
+
     }
 }
